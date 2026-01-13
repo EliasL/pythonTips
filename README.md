@@ -1,5 +1,5 @@
 Here is what you need to do to run the different files
-(You can use an alternative to UV, but I will use UV)
+(You can use python -m venv and pip instead, but I will use UV)
 
 [Install UV](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
