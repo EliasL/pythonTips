@@ -1,4 +1,5 @@
 Here is what you need to do to run the different files
+
 (You can use python -m venv and pip instead, but I will use UV)
 
 [Install UV](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
@@ -6,6 +7,8 @@ Here is what you need to do to run the different files
 Run these commands in the project directory:
 
 `uv venv`
+
+`source .venv/bin/activate`
 
 `uv pip install -r requirements.txt`
 
